@@ -1,3 +1,4 @@
+/**write a pro to perform linear and binary search**/
 #include<stdio.h>
 #define size 50
 void binary(void);
